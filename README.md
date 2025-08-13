@@ -8,7 +8,7 @@
 🌱 **I'm currently learning Backend development, Data structure and algorigthm**  
 💬 **Ask me about React, Next.js, Web development, Javascript**  
 📧 **How to reach me:** [olatoyesefaruq@gmail.com](mailto:olatoyesefaruq@gmail.com)  
-👨‍💻 **My Personal Portfolio:** [https://portfolio-henna-kappa-90.vercel.app/](https://portfolio-henna-kappa-90.vercel.app/)
+👨‍💻 **My Personal Portfolio:** [https://dev-faruq.vercel.app/](https://dev-faruq.vercel.app/)
 
 ---
 
@@ -40,7 +40,7 @@
   <a href="mailto:olatoyesefaruq@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://portfolio-henna-kappa-90.vercel.app/">
+  <a href="https://dev-faruq.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
