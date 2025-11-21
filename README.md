@@ -1,11 +1,12 @@
 # Hello! I am Faruq 👋
 
-## 🚀 About Me
+Frontend Software Engineer | Next.js, TypeScript, & Real-Time Systems
+I specialize in building **scalable, high-performance web applications** and intuitive user interfaces. My expertise is focused on integrating modern features like **AI APIs, real-time communication (WebSockets)**, and secure **Web3 authentication** into complex front-end architecture.
 
+## 🚀 About Me
+I'm a Frontend Software Engineer specializing in high-impact UIs. I love experimenting with various tools and hacks, particularly at the intersection of UI/UX, AI, and real-time data.
 🎓 **Studied Computer Science**  
-⭐ **Aspiring Software Engineer**  
-🤖 **Exploring new technologies and experimenting with various tools and hacks**  
-🌱 **I'm currently learning Backend development, Data structure and algorigthm**  
+🤖 **Exploring new technologies and experimenting with various tools and hacks**   
 💬 **Ask me about React, Next.js, Web development, Javascript**  
 📧 **How to reach me:** [olatoyesefaruq@gmail.com](mailto:olatoyesefaruq@gmail.com)  
 👨‍💻 **My Personal Portfolio:** [https://dev-faruq.vercel.app/](https://dev-faruq.vercel.app/)
@@ -14,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,nodejs,express,django,mongodb,mysql,postgresql,firebase,supabase,git,github,figma,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,tailwind,sass,mongodb,postgresql,mysql,supabase,firebase,git,github,figma,vscode" />
 </div>
 
 ---
@@ -49,10 +50,8 @@
 
 ## 💡 Fun Facts
 
-- 🔭 I'm currently working on improving my Backend development skills
-- 🎯 Goals: Contribute to more open source projects
-- ⚡ Fun fact: I love experimenting with new technologies and hacks
-- 🎮 When I'm not coding, you can find me exploring new tech trends
+- 🎯 **Goals:** Contributing to more open-source projects and mastering performance optimization.
+- ⚡ **Fun fact:** When I'm not coding, I love experimenting with new tech trends and hacks.
 
 ---
 
