@@ -3,8 +3,12 @@
 Frontend Software Engineer | Next.js, TypeScript, & Real-Time Systems
 I specialize in building **scalable, high-performance web applications** and intuitive user interfaces. My expertise is focused on integrating modern features like **AI APIs, real-time communication (WebSockets)**, and secure **Web3 authentication** into complex front-end architecture.
 
+---
+
 ## 🚀 About Me
+
 I'm a Frontend Software Engineer specializing in high-impact UIs. I love experimenting with various tools and hacks, particularly at the intersection of UI/UX, AI, and real-time data.
+
 🎓 **Studied Computer Science**  
 🤖 **Exploring new technologies and experimenting with various tools and hacks**   
 💬 **Ask me about React, Next.js, Web development, Javascript**  
