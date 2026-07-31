@@ -1,64 +1,82 @@
-# Hello! I am Faruq 👋
+# Hi, I'm Olatoyese Faruq 👋
 
-Frontend Software Engineer | Next.js, TypeScript, & Real-Time Systems
-I specialize in building **scalable, high-performance web applications** and intuitive user interfaces. My expertise is focused on integrating modern features like **AI APIs, real-time communication (WebSockets)**, and secure **Web3 authentication** into complex front-end architecture.
+## Software Engineer
 
----
-
-## 🚀 About Me
-
-I'm a Frontend Software Engineer specializing in high-impact UIs. I love experimenting with various tools and hacks, particularly at the intersection of UI/UX, AI, and real-time data.
-
-🎓 **Studied Computer Science**  
-🤖 **Exploring new technologies and experimenting with various tools and hacks**   
-💬 **Ask me about React, Next.js, Web development, Javascript**  
-📧 **How to reach me:** [olatoyesefaruq@gmail.com](mailto:olatoyesefaruq@gmail.com)  
-👨‍💻 **My Personal Portfolio:** [https://dev-faruq.vercel.app/](https://dev-faruq.vercel.app/)
+Building scalable products with modern web technologies.
 
 ---
 
-## 🛠️ Tech Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,tailwind,sass,mongodb,postgresql,mysql,supabase,firebase,git,github,figma,vscode" />
-</div>
+## About
+
+I build production-ready software across fintech, healthcare, and developer tools using modern web technologies. My work includes scalable frontend applications, real-time systems, and the backend services that support them.
+
+Graduated with a **B.Tech in Computer Science**, I'm passionate about building reliable products with clean architecture and maintainable code.
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheezy049&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wheezy049&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,fastapi,postgres,prisma,redis,tailwind,git,github,figma,vscode" />
+</p>
 
 ---
 
-## 🌐 Connect with me
+## Featured Projects
 
-<div align="left">
+### 🚀 RequestLens
+
+A real-time API observability platform that helps engineering teams monitor API health, latency, request logs, and error rates with live dashboards and configurable alerts.
+
+**Stack:** Next.js • Express.js • TypeScript • PostgreSQL • Prisma • Redis • BullMQ • Socket.IO
+
+---
+
+### 🏥 Qure
+
+A full-stack hospital appointment and intelligent queue management platform with smart doctor assignment, live queue tracking, and role-based dashboards for patients, doctors, and administrators.
+
+**Stack:** Next.js • Express.js • TypeScript • PostgreSQL • Prisma • TanStack Query
+
+---
+
+### 📁 FlexiConvert
+
+A browser-based file conversion platform supporting document, image, video, and compression tools through a FastAPI backend.
+
+**Stack:** Next.js • FastAPI • Python • TypeScript
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faruqolatoyese&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faruqolatoyese&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://devfaruq.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/faruq-olatoyese/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/faruqolatoyese">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
   <a href="https://x.com/dev_faruq">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/faruq-olatoyese-548521249/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
   <a href="mailto:olatoyesefaruq@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://dev-faruq.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-## 💡 Fun Facts
-
-- 🎯 **Goals:** Contributing to more open-source projects and mastering performance optimization.
-- ⚡ **Fun fact:** When I'm not coding, I love experimenting with new tech trends and hacks.
-
----
-
-<div align="center">
-  <h3>Show some ❤️ by starring some of the repositories!</h3>
-</div>
+</p>
